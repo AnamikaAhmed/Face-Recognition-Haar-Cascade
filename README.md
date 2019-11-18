@@ -1,6 +1,6 @@
 #Real time face recognition
 
-## packages needed
+#packages needed
   1. opencv
   2. numpy
   3. pillow
